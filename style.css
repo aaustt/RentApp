@@ -101,6 +101,14 @@ h2 {
     #template {   
     
     flex-direction:column ;
+    
 
     }
+
+    .card {
+      width: 100%;
+    
+    }
+
+
   }
